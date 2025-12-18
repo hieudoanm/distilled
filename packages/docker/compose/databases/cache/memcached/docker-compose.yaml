@@ -1,6 +1,6 @@
 services:
   memcached:
-    image: memcached:1.6.39
+    image: memcached:1.6.40
     container_name: memcached
     hostname: memcached
     restart: unless-stopped
