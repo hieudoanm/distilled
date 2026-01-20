@@ -44,12 +44,6 @@ importers:
         specifier: 2.7.5
         version: 2.7.5
 
-  packages/documentation/docsify:
-    devDependencies:
-      docsify-cli:
-        specifier: 4.4.4
-        version: 4.4.4(encoding@0.1.13)
-
   packages/micro-core-banking/typescript:
     dependencies:
       '@kafkajs/confluent-schema-registry':
