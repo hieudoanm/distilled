@@ -1,4 +1,4 @@
-FROM node:25.6.0 AS build
+FROM node:25.6.1 AS build
 
 LABEL author hieudoanm
 
