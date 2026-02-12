@@ -15,7 +15,7 @@ on:
 jobs:
   ci:
     name: Java CI
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
       # Step 1: Checkout the repository
