@@ -39,6 +39,9 @@ Sandbox is a focused project in this monorepo that delivers a practical tool wit
 - 💻 [CLI](https://github.com/hieudoanm/sandbox/releases)
 - 📱 [Mobile](https://github.com/hieudoanm/sandbox/releases)
 - 🖥️ [Desktop](https://github.com/hieudoanm/sandbox/releases)
+  - 🍎 [MacOS](https://github.com/hieudoanm/sandbox/releases/tag/macos-latest)
+  - 🐧 [Ubuntu](https://github.com/hieudoanm/sandbox/releases/tag/ubuntu-latest)
+  - 🪟 [Windows](https://github.com/hieudoanm/sandbox/releases/tag/windows-latest)
 
 ## 🛠️ 5. Development Stack
 
