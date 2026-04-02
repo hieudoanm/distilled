@@ -1,5 +1,0 @@
-py_binary(
-    name = "lodash",
-    srcs = ["main.py"],
-    main = "main.py"
-)
