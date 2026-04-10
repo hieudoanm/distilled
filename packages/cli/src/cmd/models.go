@@ -19,7 +19,7 @@ var (
 
 var modelsCmd = &cobra.Command{
 	Use:   "models",
-	Short: "Run the models operation for the free.router app",
+	Short: "Run the models operation for the OpenRouter app",
 	RunE:  runModels,
 }
 

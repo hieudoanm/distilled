@@ -20,10 +20,10 @@ var (
 
 var statusCmd = &cobra.Command{
 	Use:   "status",
-	Short: "Run the status operation for the free.router app",
-	Long: `The status command is a specific utility to execute operations related to status within the free.router application.
+	Short: "Run the status operation for the OpenRouter app",
+	Long: `The status command is a specific utility to execute operations related to status within the OpenRouter application.
 
-As a component of the ai tools, this command empowers you to interact directly with free.router's status features via the CLI.`,
+As a component of the ai tools, this command empowers you to interact directly with OpenRouter's status features via the CLI.`,
 	RunE: runStatus,
 }
 

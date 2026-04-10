@@ -3,8 +3,8 @@
 # Exit immediately if a command exits with a non-zero status
 set -e
 
-BIN_NAME="fr"
-REPO_URL="https://github.com/hieudoanm/free.router/raw/refs/heads/master/packages/cli/bin/fr"
+BIN_NAME="lucid"
+REPO_URL="https://github.com/hieudoanm/lucid/raw/refs/heads/master/packages/cli/bin/lucid"
 INSTALL_DIR="/usr/local/bin"
 
 echo "Downloading $BIN_NAME..."
