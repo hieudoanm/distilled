@@ -1,4 +1,4 @@
-import { VersionTemplate } from '@lucid/templates/VersionTemplate';
+import { VersionTemplate } from '@distilled/templates/VersionTemplate';
 import { GetStaticProps, NextPage } from 'next';
 
 type Props = {

@@ -1,8 +1,8 @@
 {
-  "name": "@lucid/app",
+  "name": "@distilled/app",
   "version": "0.0.1",
   "private": true,
-  "description": "Lucid Dreaming",
+  "description": "Distilled Dreaming",
   "main": "index.js",
   "keywords": [
     "next.js"
@@ -10,10 +10,10 @@
   "homepage": "https://hieudoanm.github.io/hieudoanm",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hieudoanm/lucid.git"
+    "url": "git+ssh://git@github.com/hieudoanm/distilled.git"
   },
   "bugs": {
-    "url": "https://github.com/hieudoanm/lucid/issues"
+    "url": "https://github.com/hieudoanm/distilled/issues"
   },
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io/)",
   "license": "GPL-3.0",

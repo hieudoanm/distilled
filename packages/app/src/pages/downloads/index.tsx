@@ -1,7 +1,7 @@
-import { DownloadsTemplate } from '@lucid/templates/DownloadsTemplate';
+import { DownloadsTemplate } from '@distilled/templates/DownloadsTemplate';
 import { NextPage } from 'next';
 
-const APP_NAME = 'lucid';
+const APP_NAME = 'distilled';
 const REPO = `https://github.com/hieudoanm/${APP_NAME}/releases/download`;
 const VERSION = '0.0.1';
 

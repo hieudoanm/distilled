@@ -1,4 +1,4 @@
-import { ErrorTemplate } from '@lucid/templates/ErrorTemplate';
+import { ErrorTemplate } from '@distilled/templates/ErrorTemplate';
 import { NextPage } from 'next';
 
 const messages = [

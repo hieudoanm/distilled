@@ -1,8 +1,8 @@
-# 🚀 [Lucid](https://hieudoanm.github.io/lucid/)
+# 🚀 [Distilled](https://hieudoanm.github.io/distilled/)
 
 ## 📚 Table of Contents
 
-- [🚀 Lucid](#-lucid)
+- [🚀 Distilled](#-distilled)
   - [📚 Table of Contents](#-table-of-contents)
   - [📖 1. Overview](#-1-overview)
   - [✨ 2. Features](#-2-features)
@@ -19,11 +19,11 @@
 
 ## 📖 1. Overview
 
-Lucid is a focused project in this monorepo that delivers a practical tool with a clean user experience across platforms.
+Distilled is a focused project in this monorepo that delivers a practical tool with a clean user experience across platforms.
 
 ## ✨ 2. Features
 
-1. [x] Core functionality tailored to Lucid
+1. [x] Core functionality tailored to Distilled
 2. [x] Web experience for quick access
 3. [x] CLI distribution for automation workflows
 4. [x] Mobile-ready build targets
@@ -31,17 +31,17 @@ Lucid is a focused project in this monorepo that delivers a practical tool with 
 
 ## 🎥 3. Demo
 
-- 🌐 [Live Demo](https://hieudoanm.github.io/lucid/)
+- 🌐 [Live Demo](https://hieudoanm.github.io/distilled/)
 
 ## 🚀 4. Usage
 
-- 🌐 [Web](https://hieudoanm.github.io/lucid/)
-- 💻 [CLI](https://github.com/hieudoanm/lucid/releases)
-- 📱 [Mobile](https://github.com/hieudoanm/lucid/releases)
-- 🖥️ [Desktop](https://github.com/hieudoanm/lucid/releases)
-  - 🍎 [MacOS](https://github.com/hieudoanm/lucid/releases/tag/macos-latest)
-  - 🐧 [Ubuntu](https://github.com/hieudoanm/lucid/releases/tag/ubuntu-latest)
-  - 🪟 [Windows](https://github.com/hieudoanm/lucid/releases/tag/windows-latest)
+- 🌐 [Web](https://hieudoanm.github.io/distilled/)
+- 💻 [CLI](https://github.com/hieudoanm/distilled/releases)
+- 📱 [Mobile](https://github.com/hieudoanm/distilled/releases)
+- 🖥️ [Desktop](https://github.com/hieudoanm/distilled/releases)
+  - 🍎 [MacOS](https://github.com/hieudoanm/distilled/releases/tag/macos-latest)
+  - 🐧 [Ubuntu](https://github.com/hieudoanm/distilled/releases/tag/ubuntu-latest)
+  - 🪟 [Windows](https://github.com/hieudoanm/distilled/releases/tag/windows-latest)
 
 ## 🛠️ 5. Development Stack
 

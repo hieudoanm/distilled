@@ -1,4 +1,4 @@
-import { LandingTemplate } from '@lucid/templates/LandingTemplate';
+import { LandingTemplate } from '@distilled/templates/LandingTemplate';
 import { NextPage } from 'next';
 
 const HomePage: NextPage = () => {
